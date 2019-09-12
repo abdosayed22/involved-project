@@ -1,0 +1,18 @@
+F:\visual\gui involved\gui involved\bin\Debug\gui involved.exe.config
+F:\visual\gui involved\gui involved\obj\Debug\gui involved.csprojResolveAssemblyReference.cache
+F:\visual\gui involved\gui involved\obj\Debug\gui_involved.Form1.resources
+F:\visual\gui involved\gui involved\obj\Debug\gui_involved.Properties.Resources.resources
+F:\visual\gui involved\gui involved\obj\Debug\gui involved.csproj.GenerateResource.Cache
+F:\visual\gui involved\gui involved\bin\Debug\gui involved.exe
+F:\visual\gui involved\gui involved\bin\Debug\gui involved.pdb
+F:\visual\gui involved\gui involved\obj\Debug\gui involved.exe
+F:\visual\gui involved\gui involved\obj\Debug\gui involved.pdb
+H:\visual\gui involved\gui involved\bin\Debug\gui involved.exe.config
+H:\visual\gui involved\gui involved\obj\Debug\gui involved.exe
+H:\visual\gui involved\gui involved\obj\Debug\gui involved.pdb
+H:\visual\gui involved\gui involved\bin\Debug\gui involved.exe
+H:\visual\gui involved\gui involved\bin\Debug\gui involved.pdb
+H:\visual\gui involved\gui involved\obj\Debug\gui involved.csprojResolveAssemblyReference.cache
+H:\visual\gui involved\gui involved\obj\Debug\gui_involved.Form1.resources
+H:\visual\gui involved\gui involved\obj\Debug\gui_involved.Properties.Resources.resources
+H:\visual\gui involved\gui involved\obj\Debug\gui involved.csproj.GenerateResource.Cache
